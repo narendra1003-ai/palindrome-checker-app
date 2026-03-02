@@ -1,4 +1,4 @@
-public class PalindromeCheckerApp {
+public class palindromecheckerapp {
 
 
     public static void main(String[] args) {
